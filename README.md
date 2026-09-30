@@ -4,6 +4,10 @@
 
 ### *A premium devotional web experience — built for the grandest festival of Solan, Himachal Pradesh.*
 
+🌐 **Live Application:** [**https://maa-shoolini-fair-2026.vercel.app**](https://maa-shoolini-fair-2026.vercel.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-maa--shoolini--fair--2026.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maa-shoolini-fair-2026.vercel.app/)
+
 [![Next.js](https://img.shields.io/badge/Next.js-16.2.7-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
